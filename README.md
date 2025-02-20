@@ -1,4 +1,4 @@
-# ML-airline-satisfaction-analysis
+# Trained and Analyzed an AI Model to Predict Customer Satisfaction
 
 This project implements a machine learning solution for predicting customer satisfaction in the airline industry using various algorithms including Decision Trees, Neural Networks, Random Forest, and Clustering approaches.
 
