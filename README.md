@@ -53,7 +53,7 @@ The project expects the `training-data.csv` file to be in the root directory of 
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/NoamGanim1/ML-airline-satisfaction-analysis.git
    ```
 
 2. Install required packages:
